@@ -5,7 +5,7 @@ Manual de Instalacion:
 
 
 2: En carpeta Frontend hacer cd hasta carpeta invenies y ejecutar comando: npm install
-
+- Luego correr en consola npm run dev
 
 
 3: En carpeta Backend ejecutar comando npm install para bajar dependencias 
